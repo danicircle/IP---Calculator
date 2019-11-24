@@ -1,0 +1,36 @@
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+C:\Users\danial\Desktop\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\8161\8161\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.exe
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.pdb
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.pdb
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csprojResolveAssemblyReference.cache
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form1.resources
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form2.resources
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form3.resources
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form4.resources
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Form5.resources
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.Properties.Resources.resources
+D:\DANI-Personal\Important\DCN\project\IP-Calculator  (GUI)\WindowsFormsApplication11\WindowsFormsApplication11\obj\x86\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache
